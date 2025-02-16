@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Developer Testing</string>
+    <string name="pokemon_image">Pokemon Image</string>
+
+    <string-array name="sort_options">
+        <item>Default</item>
+        <item>(A-Z)</item>
+        <item>(Z-A)</item>
+    </string-array>
+
+</resources>
